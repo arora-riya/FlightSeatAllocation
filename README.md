@@ -6,7 +6,11 @@ Contributors: Rohit Yadav, Rohan Chaudhary, Riya Arora, Ronak Pamnani, Sai Kumar
 
 ## Working Explained with Captures:
 <br>
-![Screenshot (529)](https://github.com/arora-riya/FlightSeatAllocation/assets/120731797/c85ef8aa-70f9-4ed9-b86c-e3405c7b2028)
+![z1](https://github.com/arora-riya/FlightSeatAllocation/assets/120731797/285d2f9e-0f7a-41be-a957-e263118b1921)
+
+
 <br>
-![Screenshot (528)](https://github.com/arora-riya/FlightSeatAllocation/assets/120731797/0ff9a9ac-43f3-443d-9a02-63feac4f7e29)
+![z2](https://github.com/arora-riya/FlightSeatAllocation/assets/120731797/66be187e-9509-4d53-90fe-9c0bfc8ce042)
+
+
 
